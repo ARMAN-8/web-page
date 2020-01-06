@@ -1,0 +1,17 @@
+.bor-r10{
+    border-radius: 10px;
+}
+.main-btn{
+    background: rgb(255,103,105);
+    background: linear-gradient(90deg, rgba(255,103,105,1) 0%, rgba(238,67,145,1) 100%);
+}
+/*google-fonts-links*/
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.dr{
+    font-family: 'Poppins', sans-serif;
+}
+.banners{
+
+}
